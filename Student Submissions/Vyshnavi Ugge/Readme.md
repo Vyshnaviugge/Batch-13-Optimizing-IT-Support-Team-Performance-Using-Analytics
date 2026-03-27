@@ -24,25 +24,27 @@ Service efficiency
 **📂 Dataset Description**
 
 The dataset contains 8470 customer support ticket records with the following key attributes:
+## 📂 Dataset Description  
 
-**Column	Description**
-Ticket ID	Unique identifier for each ticket
-Customer Name	Name of the customer
-Customer Email	Email address
-Customer Age	Age of the customer
-Customer Gender	Gender
-Product Purchased	Product associated with the ticket
-Date of Purchase	Purchase date
-Ticket Type	Issue category
-Ticket Subject	Short title
-Ticket Description	Detailed issue
-Ticket Status	Open / Closed / Pending
-Resolution	Resolution details
-Ticket Priority	High / Medium / Low
-Ticket Channel	Email / Phone / Web
-First Response Time	Time for first reply
-Time to Resolution	Total resolution time
-Customer Satisfaction Rating	Feedback score
+| Column | Description |
+|--------|------------|
+| Ticket ID | Unique identifier for each ticket |
+| Customer Name | Name of the customer |
+| Customer Email | Email address |
+| Customer Age | Age of the customer |
+| Customer Gender | Gender |
+| Product Purchased | Product associated with the ticket |
+| Date of Purchase | Purchase date |
+| Ticket Type | Issue category |
+| Ticket Subject | Short title |
+| Ticket Description | Detailed issue |
+| Ticket Status | Open / Closed / Pending |
+| Resolution | Resolution details |
+| Ticket Priority | High / Medium / Low |
+| Ticket Channel | Email / Phone / Web |
+| First Response Time | Time for first reply |
+| Time to Resolution | Total resolution time |
+| Customer Satisfaction Rating | Feedback score |
 
 **📊 Key Performance Indicators (KPIs)**
 Total Number of Tickets
