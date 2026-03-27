@@ -1,6 +1,6 @@
 **📊 Optimizing IT Support System**
 ***Customer Support Ticket Analysis Dashboard**
-
+---
 **📌 Project Overview**
 
 Customer support is a critical function for ensuring customer satisfaction and product reliability. Organizations handle large volumes of support tickets related to technical issues, billing inquiries, product defects, and refund requests.
@@ -8,7 +8,7 @@ Customer support is a critical function for ensuring customer satisfaction and p
 This project focuses on analyzing customer support ticket data to uncover patterns, evaluate performance, and improve service efficiency. An interactive Power BI dashboard is developed to visualize key metrics and enable data-driven decision-making.
 
 **🎯 Problem Statement**
-
+---
 Customer support teams often struggle with:
 
 Managing high volumes of tickets
@@ -20,7 +20,7 @@ This project aims to analyze support ticket data and build a dashboard that prov
 Ticket distribution
 Response performance
 Service efficiency
-
+---
 **📂 Dataset Description**
 
 The dataset contains 8470 customer support ticket records with the following key attributes:
@@ -45,7 +45,7 @@ The dataset contains 8470 customer support ticket records with the following key
 | First Response Time | Time for first reply |
 | Time to Resolution | Total resolution time |
 | Customer Satisfaction Rating | Feedback score |
-
+---
 **📊 Key Performance Indicators (KPIs)**
 Total Number of Tickets
 Average First Response Time
@@ -56,7 +56,7 @@ Ticket Distribution by Channel
 Ticket Distribution by Type
 Ticket Status Overview
 📈 Dashboard Features
-
+---
 **The Power BI dashboard includes:**
 
 ## 📈 Dashboard Features  
@@ -67,7 +67,8 @@ Ticket Status Overview
 - Resolution Time Analysis  
 - Customer Satisfaction Analysis  
 - Product-wise Ticket Analysis  
-- Ticket Status Overview  
+- Ticket Status Overview
+ ---
 ## 🔍 Key Insights  
 
 - Technical issues are the most common type of tickets  
