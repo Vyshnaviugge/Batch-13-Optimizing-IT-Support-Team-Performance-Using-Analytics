@@ -1,4 +1,3 @@
-Vyshnavi Ugge
 **📊 Optimizing IT Support System**
 ***Customer Support Ticket Analysis Dashboard**
 **📌 Project Overview**
