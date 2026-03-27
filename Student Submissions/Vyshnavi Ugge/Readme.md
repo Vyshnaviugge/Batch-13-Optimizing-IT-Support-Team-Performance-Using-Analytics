@@ -20,6 +20,7 @@ This project aims to analyze support ticket data and build a dashboard that prov
 Ticket distribution
 Response performance
 Service efficiency
+
 **📂 Dataset Description**
 
 The dataset contains 8470 customer support ticket records with the following key attributes:
@@ -42,6 +43,7 @@ Ticket Channel	Email / Phone / Web
 First Response Time	Time for first reply
 Time to Resolution	Total resolution time
 Customer Satisfaction Rating	Feedback score
+
 **📊 Key Performance Indicators (KPIs)**
 Total Number of Tickets
 Average First Response Time
@@ -62,23 +64,27 @@ Resolution Time Analysis
 Customer Satisfaction Analysis
 Product-wise Ticket Analysis
 Ticket Status Overview
+
 **🔍 Key Insights**
 Technical issues are the most common type of tickets
 Email and web are the most used support channels
 Certain products generate higher support requests
 Faster response times lead to higher customer satisfaction
 High-priority tickets require immediate attention
+
 **💡 Recommendations**
 Improve technical support handling processes
 Prioritize high-priority tickets
 Address product-related issues causing frequent complaints
 Automate ticket classification and routing
 Continuously monitor customer satisfaction
+
 **🛠 Tools & Technologies**
 Power BI – Dashboard development
 Power Query – Data transformation
 DAX – KPI calculations
 CSV Dataset – Data source
+
 **📌 Project Outcome**
 
 This project demonstrates how data analytics can:
