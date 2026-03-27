@@ -68,35 +68,46 @@ Ticket Status Overview
 - Customer Satisfaction Analysis  
 - Product-wise Ticket Analysis  
 - Ticket Status Overview  
+## 🔍 Key Insights  
 
-**🔍 Key Insights**
-Technical issues are the most common type of tickets
-Email and web are the most used support channels
-Certain products generate higher support requests
-Faster response times lead to higher customer satisfaction
-High-priority tickets require immediate attention
+- Technical issues are the most common type of tickets  
+- Email and web are the most used support channels  
+- Certain products generate higher support requests  
+- Faster response times lead to higher customer satisfaction  
+- High-priority tickets require immediate attention  
 
-**💡 Recommendations**
-Improve technical support handling processes
-Prioritize high-priority tickets
-Address product-related issues causing frequent complaints
-Automate ticket classification and routing
-Continuously monitor customer satisfaction
+---
 
-**🛠 Tools & Technologies**
-Power BI – Dashboard development
-Power Query – Data transformation
-DAX – KPI calculations
-CSV Dataset – Data source
+## 💡 Recommendations  
 
-**📌 Project Outcome**
+- Improve technical support handling processes  
+- Prioritize high-priority tickets  
+- Address product-related issues causing frequent complaints  
+- Automate ticket classification and routing  
+- Continuously monitor customer satisfaction  
 
-This project demonstrates how data analytics can:
+---
 
-Improve support team efficiency
-Identify operational bottlenecks
-Enhance customer satisfaction
-Enable data-driven decision-making
-👩‍💻 Author
+## 🛠 Tools & Technologies  
 
-Vyshnavi Ugge
+- **Power BI** – Dashboard development  
+- **Power Query** – Data transformation  
+- **DAX** – KPI calculations  
+- **CSV Dataset** – Data source  
+
+---
+
+## 📌 Project Outcome  
+
+This project demonstrates how data analytics can:  
+
+- Improve support team efficiency  
+- Identify operational bottlenecks  
+- Enhance customer satisfaction  
+- Enable data-driven decision-making  
+
+---
+
+## 👩‍💻 Author  
+
+**Vyshnavi Ugge**  
