@@ -1,5 +1,6 @@
 **📊 Optimizing IT Support System**
 ***Customer Support Ticket Analysis Dashboard**
+
 **📌 Project Overview**
 
 Customer support is a critical function for ensuring customer satisfaction and product reliability. Organizations handle large volumes of support tickets related to technical issues, billing inquiries, product defects, and refund requests.
